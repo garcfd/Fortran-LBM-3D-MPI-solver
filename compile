@@ -1,0 +1,1 @@
+mpif77 -Wall -Wtabs -fbounds-check -fbacktrace -pedantic -O2 -o genwar genwar20.for
